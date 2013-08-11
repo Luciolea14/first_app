@@ -46,6 +46,7 @@
 source 'http://rubygems.org'
 
 gem 'rails', '4.0.0'
+gem 'jquery-rails'
 
 group :production, :staging do
   gem "pg"
