@@ -45,7 +45,7 @@
 # # gem 'debugger', group: [:development, :test]
 source 'http://rubygems.org'
 
-gem 'rails', '3.0.5'
+gem 'rails', '4.0.0'
 
 group :production, :staging do
   gem "pg"
